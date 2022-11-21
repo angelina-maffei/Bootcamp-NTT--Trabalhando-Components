@@ -11,5 +11,5 @@
 * Props do card News 
 
 
-com  Avatar
+com  
 Felipe Silva Aguiar  da DIO.me
